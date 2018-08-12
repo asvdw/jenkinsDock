@@ -1,0 +1,3 @@
+[SampleSpring_master-J27YMHO6KLWM5K3LD4AW3CGAPGF2NOTPLSWDRNE62YAUZGHLHCAA] Running shell script
++ ./mvn clean compile
+/var/jenkins_home/workspace/SampleSpring_master-J27YMHO6KLWM5K3LD4AW3CGAPGF2NOTPLSWDRNE62YAUZGHLHCAA@tmp/durable-64470c24/script.sh: 2: /var/jenkins_home/workspace/SampleSpring_master-J27YMHO6KLWM5K3LD4AW3CGAPGF2NOTPLSWDRNE62YAUZGHLHCAA@tmp/durable-64470c24/script.sh: ./mvn: not found

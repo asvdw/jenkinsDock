@@ -1,0 +1,13 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<fingerprint>
+  <timestamp>2018-08-11 16:44:31.576 UTC</timestamp>
+  <md5sum>c2980f964379e985542a6fb0408ebe3f</md5sum>
+  <fileName>Credential id=github name=dw/****** (GitHub Access Token)</fileName>
+  <usages>
+    <entry>
+      <string>SampleSpring/master</string>
+      <ranges>1-14</ranges>
+    </entry>
+  </usages>
+  <facets/>
+</fingerprint>

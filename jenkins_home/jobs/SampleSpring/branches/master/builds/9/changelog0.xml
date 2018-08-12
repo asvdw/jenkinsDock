@@ -1,0 +1,35 @@
+commit a4cb442899799999b18028261b4f68e557ccecd0
+tree 49ee77217d0c577a38e95d88bb5e729f6e6c07a7
+parent fc3cde2393cc1378000d7721fed92de060637747
+author Denis Willems (aws) <d@dwillems.be> 2018-08-12 08:19:35 +0000
+committer Denis Willems (aws) <d@dwillems.be> 2018-08-12 08:19:35 +0000
+
+    add ut stage
+
+
+
+:100644 100644 9baf44327d58b9d3b4993385ef8eb33e81c1eb49 a0989b593ec4efce98b93d4a946e6325992c3d91 M	Jenkinsfile
+commit fc3cde2393cc1378000d7721fed92de060637747
+tree da61f9419133f725a0c0012c25ad75ecc31dc1f2
+parent 5ab427ba47f25dbe1d01c295c1698e28068d1cdf
+author Denis Willems (aws) <d@dwillems.be> 2018-08-12 08:16:00 +0000
+committer Denis Willems (aws) <d@dwillems.be> 2018-08-12 08:16:00 +0000
+
+    small fix
+
+
+
+:100644 100644 cf15f513db1e85a18f36808fb6152c918debdd3e 20fbcb715bf7df9d0e196359115ee0393c298bb9 M	src/test/java/dwi/labs/SampleSpring/SampleSpringTest.java
+commit 1400da6a5882d0ea5e8bfc4609eacb4b90a2fecb
+tree 10d656c787cc0789bbf0d283c7fa92686f5b2829
+parent 9c8809d4a7f71b563f63595dcf47fc5c9194389b
+author Denis Willems (aws) <d@dwillems.be> 2018-08-12 07:48:46 +0000
+committer Denis Willems (aws) <d@dwillems.be> 2018-08-12 07:48:46 +0000
+
+    add loguc and test:sum
+
+
+
+:000000 100644 0000000000000000000000000000000000000000 a387e32fb5ecddaa6f561b5d2d432727d8cfeff0 A	src/main/java/dwi/labs/SampleSpring/SampleSpring.java
+:000000 100644 0000000000000000000000000000000000000000 9faec17a532e0b805972d3276374f58d4f16ae66 A	src/main/java/dwi/labs/SampleSpring/SampleSpringController.java
+:000000 100644 0000000000000000000000000000000000000000 cf15f513db1e85a18f36808fb6152c918debdd3e A	src/test/java/dwi/labs/SampleSpring/SampleSpringTest.java

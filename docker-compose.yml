@@ -1,0 +1,15 @@
+version: '3.2'
+services:
+  master:
+    image: my/jenkins:lts
+    build: ./jenkins
+    user: jenkins
+    ports:
+      - "49001:8080"
+    volumes:
+      - ./jenkins_home:/var/jenkins_home
+    environment:
+      - NOTUSED=production
+    #deploy:
+    #  restart_policy:
+    #    condition: none

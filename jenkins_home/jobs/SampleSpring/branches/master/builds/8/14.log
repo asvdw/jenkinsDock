@@ -1,0 +1,25 @@
+[SampleSpring_master-J27YMHO6KLWM5K3LD4AW3CGAPGF2NOTPLSWDRNE62YAUZGHLHCAA] Running shell script
++ ./mvnw clean compile
+/var/jenkins_home/workspace/SampleSpring_master-J27YMHO6KLWM5K3LD4AW3CGAPGF2NOTPLSWDRNE62YAUZGHLHCAA
+[INFO] Scanning for projects...
+[INFO] 
+[INFO] -----------------------< dwi.labs:SampleSpring >------------------------
+[INFO] Building SampleSpring 0.0.1-SNAPSHOT
+[INFO] --------------------------------[ jar ]---------------------------------
+[INFO] 
+[INFO] --- maven-clean-plugin:3.0.0:clean (default-clean) @ SampleSpring ---
+[INFO] 
+[INFO] --- maven-resources-plugin:3.0.2:resources (default-resources) @ SampleSpring ---
+[INFO] Using 'UTF-8' encoding to copy filtered resources.
+[INFO] Copying 1 resource
+[INFO] Copying 0 resource
+[INFO] 
+[INFO] --- maven-compiler-plugin:3.7.0:compile (default-compile) @ SampleSpring ---
+[INFO] Changes detected - recompiling the module!
+[INFO] Compiling 1 source file to /var/jenkins_home/workspace/SampleSpring_master-J27YMHO6KLWM5K3LD4AW3CGAPGF2NOTPLSWDRNE62YAUZGHLHCAA/target/classes
+[INFO] ------------------------------------------------------------------------
+[INFO] BUILD SUCCESS
+[INFO] ------------------------------------------------------------------------
+[INFO] Total time: 3.626 s
+[INFO] Finished at: 2018-08-12T08:22:35Z
+[INFO] ------------------------------------------------------------------------

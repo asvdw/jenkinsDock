@@ -1,0 +1,11 @@
+commit dccfea17dbb7b91962ab40b4087d84379488df5a
+tree 96874a55322831826f28dd6f469b76d0c06f4baa
+parent a4cb442899799999b18028261b4f68e557ccecd0
+author Denis Willems (aws) <d@dwillems.be> 2018-08-12 08:25:22 +0000
+committer Denis Willems (aws) <d@dwillems.be> 2018-08-12 08:25:22 +0000
+
+    fix: mvbw insteadof gradle
+
+
+
+:100644 100644 a0989b593ec4efce98b93d4a946e6325992c3d91 a0770fa13ee28856be2d9149891c77534fcbb5e0 M	Jenkinsfile

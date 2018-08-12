@@ -1,0 +1,27 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<Tag plugin="workflow-support@2.20">
+  <node class="cps.n.StepStartNode" plugin="workflow-cps@2.54">
+    <parentIds>
+      <string>8</string>
+    </parentIds>
+    <id>9</id>
+    <descriptorId>org.jenkinsci.plugins.workflow.steps.EnvStep</descriptorId>
+  </node>
+  <actions>
+    <wf.a.TimingAction plugin="workflow-api@2.29">
+      <startTime>1533985750989</startTime>
+    </wf.a.TimingAction>
+    <s.a.LogActionImpl/>
+    <cps.a.ArgumentsActionImpl plugin="workflow-cps@2.54">
+      <arguments>
+        <entry>
+          <string>overrides</string>
+          <list>
+            <string>NAME=Rafal</string>
+          </list>
+        </entry>
+      </arguments>
+      <isUnmodifiedBySanitization>true</isUnmodifiedBySanitization>
+    </cps.a.ArgumentsActionImpl>
+  </actions>
+</Tag>

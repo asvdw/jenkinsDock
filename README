@@ -1,0 +1,9 @@
+"Jenkins over Docker" - installation générique, tests divers
+
+.gitignore: sauvegarde les paramètres jenkins, y compris les mots de passe !!!
+les plugins sont également sauvegardé. Une autre approche serait de les réinstaller via le script
+----
+daemon.json: a mettre dans /etc/docker
+config.xml: exemple de config jenkins sans csrf
+----
+Admin: dw/Djenkins

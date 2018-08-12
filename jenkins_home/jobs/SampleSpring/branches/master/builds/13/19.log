@@ -1,0 +1,3 @@
+[SampleSpring_master-J27YMHO6KLWM5K3LD4AW3CGAPGF2NOTPLSWDRNE62YAUZGHLHCAA] Running shell script
++ ./gradlew test
+/var/jenkins_home/workspace/SampleSpring_master-J27YMHO6KLWM5K3LD4AW3CGAPGF2NOTPLSWDRNE62YAUZGHLHCAA@tmp/durable-f4496805/script.sh: 2: /var/jenkins_home/workspace/SampleSpring_master-J27YMHO6KLWM5K3LD4AW3CGAPGF2NOTPLSWDRNE62YAUZGHLHCAA@tmp/durable-f4496805/script.sh: ./gradlew: not found

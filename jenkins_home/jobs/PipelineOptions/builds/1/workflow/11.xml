@@ -1,0 +1,25 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<Tag plugin="workflow-support@2.20">
+  <node class="cps.n.StepAtomNode" plugin="workflow-cps@2.54">
+    <parentIds>
+      <string>10</string>
+    </parentIds>
+    <id>11</id>
+    <descriptorId>org.jenkinsci.plugins.workflow.steps.EchoStep</descriptorId>
+  </node>
+  <actions>
+    <wf.a.TimingAction plugin="workflow-api@2.29">
+      <startTime>1533985675181</startTime>
+    </wf.a.TimingAction>
+    <s.a.LogActionImpl/>
+    <cps.a.ArgumentsActionImpl plugin="workflow-cps@2.54">
+      <arguments>
+        <entry>
+          <string>message</string>
+          <wf.a.ArgumentsAction_-NotStoredReason>MASKED_VALUE</wf.a.ArgumentsAction_-NotStoredReason>
+        </entry>
+      </arguments>
+      <isUnmodifiedBySanitization>false</isUnmodifiedBySanitization>
+    </cps.a.ArgumentsActionImpl>
+  </actions>
+</Tag>

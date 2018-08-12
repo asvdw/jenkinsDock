@@ -1,0 +1,11 @@
+commit 53c6ddbdb0421e0276f4ee1204dc96961a0b0123
+tree 4a275af6a3b246f889471da2858a891b3fe5b9dc
+parent acaf61df93fad615063eb45d92b19faab62ec162
+author Denis Willems <denis@asveyou.be> 2018-08-11 18:49:57 +0200
+committer Denis Willems <denis@asveyou.be> 2018-08-11 18:49:57 +0200
+
+    Added Jenkinsfile
+
+
+
+:100644 100644 1876981591569df9638aeef7b94cec4816d380fd 9baf44327d58b9d3b4993385ef8eb33e81c1eb49 M	Jenkinsfile

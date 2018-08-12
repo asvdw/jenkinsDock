@@ -1,0 +1,4 @@
+[SampleSpring_master-J27YMHO6KLWM5K3LD4AW3CGAPGF2NOTPLSWDRNE62YAUZGHLHCAA] Running shell script
++ ./mvnw clean compile
+/var/jenkins_home/workspace/SampleSpring_master-J27YMHO6KLWM5K3LD4AW3CGAPGF2NOTPLSWDRNE62YAUZGHLHCAA
+Error: Could not find or load main class org.apache.maven.wrapper.MavenWrapperMain

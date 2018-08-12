@@ -1,0 +1,14 @@
+jenkins_home/war
+jenkins_home/cache
+jenkins_home/tools
+jenkins_home/.bash_history
+jenkins_home/.m2
+jenkins_home/.groovy
+jenkins_home/.java
+jenkins/logs
+jenkins_home/workspace
+jenkins_home/jobs/*/workspace
+#comment folowwing line to backup jobs history
+jenkins_home/jobs/*/build
+
+!**/.emptydir
